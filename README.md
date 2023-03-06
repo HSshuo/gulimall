@@ -2,6 +2,7 @@
 
 # 介绍
 - 本项目直接从谷粒商城高级篇入手
+- 依赖有所变化，这里使用dependencyManagement统一管理版本号；而没有使用gulimall-common组件
 
 <br>
 <br>
